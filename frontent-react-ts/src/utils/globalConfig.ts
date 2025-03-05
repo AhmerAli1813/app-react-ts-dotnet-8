@@ -13,6 +13,8 @@ export const CREATE_MESSAGE_URL = '/Messages/create';
 export const MY_MESSAGE_URL = '/Messages/mine';
 export const LOGS_URL = '/Logs';
 export const MY_LOGS_URL = '/Logs/mine';
+export const MY_LOGS_URL2 = '/Logs/mine2';
+
 
 // Auth Routes
 export const PATH_AFTER_REGISTER = PATH_PUBLIC.login;
